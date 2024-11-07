@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: manoj
+  manoj: manoj
 
 steps:
 - task: Maven@3
